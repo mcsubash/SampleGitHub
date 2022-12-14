@@ -12,7 +12,7 @@ public class SampleProject extends BaseClass {
 	private void test() {
 
 
-		System.out.println("I'm ready okay");
+		System.out.println("I'm ready okay new changes");
 
 	}
 		
