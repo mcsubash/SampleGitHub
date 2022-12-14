@@ -10,6 +10,7 @@ public class SampleProject extends BaseClass {
 	
 	@Test
 	private void test() {
+
 		System.out.println("I'm ready okay");
 	}
 		
