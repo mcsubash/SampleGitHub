@@ -2,6 +2,9 @@ package org.test.sampleprojects;
 //to check
 
 import java.org.baseclass.BaseClass;
+//to check on 19 Dec 4.20 pm
+
+//to check in eclipse 1
 
 import org.testng.annotations.Test;
 
@@ -12,7 +15,8 @@ public class SampleProject extends BaseClass {
 	@Test
 	private void test() {
 
-		System.out.println("I'm ready okay");
+		System.out.println("I'm ready okay new changess");
+
 	}
 		
 		@Test
